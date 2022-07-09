@@ -1,1 +1,1 @@
-# XRI-Example-Scene_01
+# XR-training-Unity-scene_01
